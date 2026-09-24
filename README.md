@@ -1,5 +1,13 @@
 **Free vpn, tor, datacenter, threat detection by IP address**
 
+-------
+> [!WARNING]
+> **This project is stopped**
+>
+> This project is no longer maintained.
+>
+-------
+
 ### Install
 
 ```bash
